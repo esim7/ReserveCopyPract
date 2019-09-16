@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\ReserveCopy\ReserveCopy\bin\Debug\ReserveCopy.exe.config
+C:\Users\home\source\repos\ReserveCopy\ReserveCopy\bin\Debug\ReserveCopy.exe
+C:\Users\home\source\repos\ReserveCopy\ReserveCopy\bin\Debug\ReserveCopy.pdb
+C:\Users\home\source\repos\ReserveCopy\ReserveCopy\obj\Debug\ReserveCopy.csprojAssemblyReference.cache
+C:\Users\home\source\repos\ReserveCopy\ReserveCopy\obj\Debug\ReserveCopy.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\ReserveCopy\ReserveCopy\obj\Debug\ReserveCopy.exe
+C:\Users\home\source\repos\ReserveCopy\ReserveCopy\obj\Debug\ReserveCopy.pdb
