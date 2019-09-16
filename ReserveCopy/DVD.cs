@@ -10,10 +10,10 @@ namespace ReserveCopy
     {
         const int zero = 0;
 
-        public int WriteSpeed {get;set;}//mb/sec
-        public int ReadSpeed { get; set; }
+        public int WriteSpeed {get;}//mb/sec
+        public int ReadSpeed {get;}
         public DVDType DiscType { get; set; }
-        public int MemorySize { get; set; }
+        public int MemorySize { get; }
         public int FreeMemorySize { get; set; }
 
         public DVD(int discType)

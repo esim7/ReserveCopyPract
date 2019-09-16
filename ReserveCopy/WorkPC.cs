@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ReserveCopy
 {
-    public class WorkPC
+    public class WorkPC //класс имитирующий рабочую станцию где хранятся рабочие документы
     {
         public string UserName { get; set; }
         public string FileName { get; }

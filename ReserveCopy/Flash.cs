@@ -10,8 +10,8 @@ namespace ReserveCopy
     {
         const int zero = 0;
 
-        public int WriteSpeed { get; set; } //mb/sec
-        public int ReadSpeed { get; set; }
+        public int WriteSpeed { get; } //mb/sec
+        public int ReadSpeed { get; }
         public int MemorySize { get; set; }
         public int FreeMemorySize { get; set; }
 
